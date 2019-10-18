@@ -20,7 +20,9 @@ import (
 
 var keyMap = map[string]byte{
 	"ESC":   0x01,
+	"ENTER": 0x1C,
 	"A":     0x1E,
+	"R":     0x13,
 	"Z":     0x2C,
 	"HOME":  0x66,
 	"UP":    0x67,
